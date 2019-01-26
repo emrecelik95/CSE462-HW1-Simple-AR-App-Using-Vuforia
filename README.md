@@ -7,7 +7,6 @@
 <img src="https://media.githubusercontent.com/media/emrecelik95/CSE462-HW1-Simple-AR-App-Using-Vuforia/master/Assets/Photos/photo5924698125891645291.jpg">
 <img src="https://media.githubusercontent.com/media/emrecelik95/CSE462-HW1-Simple-AR-App-Using-Vuforia/master/Assets/Photos/photo5924698125891645290.jpg">
 </p>
-<a href="http://example.com/" target="_blank">example</a>
 
 <b>How To Set Up The Project</b>
 - Get key from Vuforia Developer Portal
