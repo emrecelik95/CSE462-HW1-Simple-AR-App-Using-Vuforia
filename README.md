@@ -15,4 +15,4 @@
 - Set Build Order as "0", "1", "2"
 
 ##### For detailed Vuforia set up information : <a href="https://docs.unity3d.com/Manual/vuforia_get_started_project_setup.html" target="_blank">Setting up your Project for Vuforia</a>
-#### For any question, send me an email : emrecelik95@gmail.com
+##### For any question, send me email : emrecelik95@gmail.com
