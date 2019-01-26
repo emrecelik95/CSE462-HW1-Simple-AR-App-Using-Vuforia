@@ -4,8 +4,8 @@
 - Download from Play Store : <a href="https://play.google.com/store/apps/details?id=com.Scrollend.MobileLeagueAR&hl=tr" target="blank">Mobile League AR</a>
 
 <p align="center">
-<img src="https://lh3.googleusercontent.com/AFYN1QPC7VPMwp8O6oQMq6BOaWCu4SmrVlp6zdyh88MNTSZfKhKKvkEMDvVNhtpoKWZQ=w720-h310-rw">
-<img src="https://lh3.googleusercontent.com/P3tHGUEGmpYjKz0ebAojoLYLqztA8XcYJRAGqej0xh4gx5pnszUyBBXUtTet6YQj11Cu=w720-h310-rw">
+<img src="https://media.githubusercontent.com/media/emrecelik95/CSE462-HW1-Simple-AR-App-Using-Vuforia/master/Assets/Photos/photo5924698125891645291.jpg">
+<img src="https://media.githubusercontent.com/media/emrecelik95/CSE462-HW1-Simple-AR-App-Using-Vuforia/master/Assets/Photos/photo5924698125891645290.jpg">
 </p>
 
 <b>How To Set Up The Project</b>
