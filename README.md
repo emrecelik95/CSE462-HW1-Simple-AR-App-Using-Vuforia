@@ -1,7 +1,6 @@
 # Simple Car Simulator With Vuforia
 - This repo contains a simple Vuforia Augmented Reality App using marker and markerless tracking.
 - Used Unity 2018.2.7f1, Vuforia 7.2.23
-- Download from Play Store : <a href="https://play.google.com/store/apps/details?id=com.Scrollend.MobileLeagueAR&hl=tr" target="_blank">Mobile League AR</a>
 
 <p align="center">
 <img src="https://media.githubusercontent.com/media/emrecelik95/CSE462-HW1-Simple-AR-App-Using-Vuforia/master/Assets/Photos/photo5924698125891645291.jpg">
